@@ -9,3 +9,6 @@ Passed the LearnGitBranching app! Well thought out, makes you think, one nuance 
 ## Git Collaboration
 Hi! Attended the Introduction to Git and GitHub course.
 I liked working with Git and GitHub. I will continue to improve my skills.
+
+## Intro to HTML and CSS
+Hi! I liked this course, everything is clear.
