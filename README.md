@@ -12,3 +12,6 @@ I liked working with Git and GitHub. I will continue to improve my skills.
 
 ## Intro to HTML and CSS
 Hi! I liked this course, everything is clear.
+
+## Responsive Web Design
+Hi! Zhenya Andrikanich has good courses, understandable and without excess.
