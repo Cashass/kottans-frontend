@@ -26,4 +26,12 @@ Hi! I really enjoyed this assignment. Learned a lot of new and interesting thing
 
 ## JS Basics
 
+<details>
+<summary>notes</summary>
 Hi! I just started learning JavaScript. For me, all the information is new and interesting. In my opinion, the information in the FreeCodeCamp exercises and additional materials is clearer than in the Coursera material. Thanks for the course.
+</details>
+
+<details>
+<summary>demo</summary>
+https://cashass.github.io/html-css-Popup/
+</details>
